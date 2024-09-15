@@ -1,16 +1,10 @@
 # famcare
 
 A new Flutter project.
+The below is the app logo.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-16 002317](https://github.com/user-attachments/assets/6e65449a-95f8-4e5d-87f0-fda858530ceb)
+The below images are the pages in the app.
+![Screenshot 2024-09-16 002400](https://github.com/user-attachments/assets/a69221c2-ae22-4390-b328-e083544884a3)
+![Screenshot 2024-09-16 002333](https://github.com/user-attachments/assets/67d35b43-ec69-403c-b11e-461fa45074e4)
+![Screenshot 2024-09-16 002349](https://github.com/user-attachments/assets/68dad486-a012-4b8d-a86f-cd1acc09f80a)
